@@ -2,12 +2,13 @@
 
 To install:
 
-  $git clone https://github.com/akshyp03/CmpNetFinal.git
+    $git clone https://github.com/akshyp03/CmpNetFinal.git
 
-  $npm install
+    $npm install
 
 To run:
-  $node app.js
+     
+     $node app.js
 
 Then go to: http://localhost:3000/
 
