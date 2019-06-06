@@ -6,6 +6,9 @@ To install:
 
   $npm install
 
+To run:
+  $node app.js
+
 Then go to: http://localhost:3000/
 
 Here you will see all the events in the database, the feature to add new events was not implemented
